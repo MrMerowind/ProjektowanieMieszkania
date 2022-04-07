@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Programme>
+  <Furniture Name="Lozko pojedyncze" ImageSource="PojedynczeLozko.png" Width="60" Height="80" />
+  <Furniture Name="Lozko podwojne" ImageSource="PodwojneLozko.png" Width="60" Height="80" />
+  <Furniture Name="Fotel" ImageSource="Fotel.png" Width="60" Height="80" />
+  <Furniture Name="Stolik" ImageSource="Stolik.png" Width="60" Height="80" />
+  <Furniture Name="Szafa" ImageSource="Szafa.png" Width="60" Height="80" />
+  <Furniture Name="Zlew" ImageSource="Zlew.png" Width="60" Height="80" />
+  <Furniture Name="Prysznic" ImageSource="Prysznic.png" Width="60" Height="80" />
+  <Furniture Name="Sedes" ImageSource="Sedes.png" Width="60" Height="80" />
+  <Furniture Name="Bidet" ImageSource="Bidet.png" Width="60" Height="80" />
+  <Furniture Name="Stół" ImageSource="Stol.png" Width="60" Height="80" />
+  <Furniture Name="Kominek" ImageSource="Kominek.png" Width="60" Height="80" />
+  <Furniture Name="Narożnik" ImageSource="Naroznik.png" Width="60" Height="80" />
+  <Furniture Name="Duży narożnik" ImageSource="DuzyNaroznik.png" Width="60" Height="80" />
+  <Furniture Name="Umywalka" ImageSource="Umywalka.png" Width="60" Height="80" />
+  <Furniture Name="Wanna" ImageSource="Wanna.png" Width="60" Height="80" />
+  <Furniture Name="Wanna narożna" ImageSource="WannaNarozna.png" Width="60" Height="80" />
+  <Furniture Name="Samochód" ImageSource="Samochod.png" Width="60" Height="80" />
+  <Furniture Name="Szafka" ImageSource="Szafka.png" Width="45" Height="45" />
+</Programme>

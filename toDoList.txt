@@ -1,0 +1,11 @@
+﻿------------ DO ZROBIENIA -------------
+
+-(gotowe) Rysowanie ścian
+-(gotowe) Przesuwanie ścian
+-(nie) Stworzyć klasę matkę "Obiekty" po której ściany, meble, drzwi etc. dziedziczyć przynajmniej punkty lokacji
+- Jednostki długości (przynajmniej podczas stawiania ścian)
+- Przesuwanie ścian
+- Jednostki długości
+- Oddalanie planu / zbliżanie
+- Kontrola pomieszczeń
+- Odczyt z pliku xml

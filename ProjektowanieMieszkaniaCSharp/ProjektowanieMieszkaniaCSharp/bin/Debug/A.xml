@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Everything>
+  <Wall WallStartX="240" WallStartY="250" WallEndX="240" WallEndY="540" WallThickness="10" />
+  <Wall WallStartX="450" WallStartY="250" WallEndX="450" WallEndY="540" WallThickness="10" />
+  <Wall WallStartX="240" WallStartY="540" WallEndX="330" WallEndY="540" WallThickness="10" />
+  <Wall WallStartX="330" WallStartY="540" WallEndX="450" WallEndY="540" WallThickness="10" />
+  <Wall WallStartX="240" WallStartY="250" WallEndX="330" WallEndY="250" WallThickness="10" />
+  <Wall WallStartX="330" WallStartY="250" WallEndX="450" WallEndY="250" WallThickness="10" />
+  <Wall WallStartX="330" WallStartY="540" WallEndX="330" WallEndY="600" WallThickness="10" />
+  <Wall WallStartX="330" WallStartY="190" WallEndX="330" WallEndY="250" WallThickness="10" />
+  <Wall WallStartX="330" WallStartY="250" WallEndX="330" WallEndY="540" WallThickness="10" />
+  <Window WindowStartX="520" WindowStartY="220" WindowEndX="590" WindowEndY="220" WindowThickness="10" />
+  <Room RoomName="POKOJ" RoomColor="0" />
+  <Room RoomName="POKOJ" RoomColor="0" />
+  <Furniture FurnitureLocationX="827" FurnitureLocationY="237" FurnitureImageSource="PodwojneLozko.png" FurnitureName="Lozko podwojne" FurnitureWidth="90" FurnitureHeight="102" FurnitureImageScaleWidth="100" FurnitureImageScaleHeight="100" FurnitureRotationAngle="0" FurnitureIsMirrorTransformed="false" />
+  <Furniture FurnitureLocationX="495" FurnitureLocationY="288" FurnitureImageSource="DuzyNaroznik.png" FurnitureName="Duży narożnik" FurnitureWidth="316.400024" FurnitureHeight="223.5" FurnitureImageScaleWidth="140" FurnitureImageScaleHeight="150" FurnitureRotationAngle="0" FurnitureIsMirrorTransformed="false" />
+  <Furniture FurnitureLocationX="403" FurnitureLocationY="290" FurnitureImageSource="Bidet.png" FurnitureName="Bidet" FurnitureWidth="40" FurnitureHeight="40" FurnitureImageScaleWidth="100" FurnitureImageScaleHeight="100" FurnitureRotationAngle="0" FurnitureIsMirrorTransformed="false" />
+  <Furniture FurnitureLocationX="364" FurnitureLocationY="386" FurnitureImageSource="Bidet.png" FurnitureName="Bidet" FurnitureWidth="40" FurnitureHeight="40" FurnitureImageScaleWidth="100" FurnitureImageScaleHeight="100" FurnitureRotationAngle="0" FurnitureIsMirrorTransformed="false" />
+  <Furniture FurnitureLocationX="480" FurnitureLocationY="507" FurnitureImageSource="Fotel.png" FurnitureName="Fotel" FurnitureWidth="45" FurnitureHeight="45" FurnitureImageScaleWidth="100" FurnitureImageScaleHeight="100" FurnitureRotationAngle="0" FurnitureIsMirrorTransformed="false" />
+  <FurnitureAddedByUser Name="Lozko pojedyncze" ImageSource="PojedynczeLozko.png" />
+  <FurnitureAddedByUser Name="Lozko podwojne" ImageSource="PodwojneLozko.png" />
+  <FurnitureAddedByUser Name="Fotel" ImageSource="Fotel.png" />
+  <FurnitureAddedByUser Name="Stolik" ImageSource="Stolik.png" />
+  <FurnitureAddedByUser Name="Szafa" ImageSource="Szafa.png" />
+  <FurnitureAddedByUser Name="Zlew" ImageSource="Zlew.png" />
+  <FurnitureAddedByUser Name="Prysznic" ImageSource="Prysznic.png" />
+  <FurnitureAddedByUser Name="Sedes" ImageSource="Sedes.png" />
+  <FurnitureAddedByUser Name="Bidet" ImageSource="Bidet.png" />
+  <FurnitureAddedByUser Name="Stół" ImageSource="Stol.png" />
+  <FurnitureAddedByUser Name="Kominek" ImageSource="Kominek.png" />
+  <FurnitureAddedByUser Name="Narożnik" ImageSource="Naroznik.png" />
+  <FurnitureAddedByUser Name="Duży narożnik" ImageSource="DuzyNaroznik.png" />
+  <FurnitureAddedByUser Name="Umywalka" ImageSource="Umywalka.png" />
+  <FurnitureAddedByUser Name="Wanna" ImageSource="Wanna.png" />
+  <FurnitureAddedByUser Name="Wanna narożna" ImageSource="WannaNarozna.png" />
+  <FurnitureAddedByUser Name="Samochód" ImageSource="Samochod.png" />
+  <FurnitureAddedByUser Name="Szafka" ImageSource="Szafka.png" />
+  <Config ArtboardWidth="1000" ArtboardHeight="750" MeasuringUnit="Metry(m)" ArtboardScale="1" />
+</Everything>
